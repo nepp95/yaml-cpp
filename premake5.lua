@@ -27,6 +27,9 @@ project "yaml-cpp"
 	filter "system:linux"
 		pic "On"
 		systemversion "latest"
+  
+    filter "system:macosx"
+        architecture "ARM64"
 
 	filter "configurations:Debug"
 		runtime "Debug"
