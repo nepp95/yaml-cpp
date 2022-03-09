@@ -5,5 +5,4 @@ bin
 bin-int
 *.xcode*
 Makefile
-yaml-cpp.vcxproj
-yaml-cpp.vcxproj.filters
+*.vcxproj*
