@@ -25,7 +25,7 @@ project "yaml-cpp"
 		pic "On"
 		systemversion "latest"
 
-	filter "system:macosx"
+  filter "system:macosx"
 		architecture "ARM64"
 
 	filter "configurations:Debug"

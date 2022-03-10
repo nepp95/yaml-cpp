@@ -3,6 +3,6 @@ build/
 /bazel-*
 bin
 bin-int
-Makefile
 *.xcode*
 *.vcxproj*
+Makefile
