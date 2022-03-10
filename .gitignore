@@ -1,6 +1,8 @@
 build/
 /tags
 /bazel-*
+bin
+bin-int
 Makefile
 *.xcode*
 *.vcxproj*
